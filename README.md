@@ -78,4 +78,3 @@ background-size: 100% 100%;
 border-color: #5142FC
 card-color: #343444
 body-color: #14141f
-
